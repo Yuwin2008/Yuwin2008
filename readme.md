@@ -17,6 +17,8 @@ I enjoy learning by doing—experimenting with datasets, improving models, and p
 - Scikit-learn
 - Matplotlib / Seaborn
 - Jupyter Notebook
+- Streamlit
+- Plotly
 - Git & GitHub
 
 ---
@@ -37,7 +39,7 @@ I enjoy learning by doing—experimenting with datasets, improving models, and p
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Yuwin2008
-- Discord : godofthunder_2407
+- Discord Username : godofthunder_2407
 
 ---
 
