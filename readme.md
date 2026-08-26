@@ -43,4 +43,4 @@ I enjoy learning by doing—experimenting with datasets, improving models, and p
 
 ---
 
-> “Code. Train. Improve. Repeat.”
+> “Adapt. Analyse. Dominate”
